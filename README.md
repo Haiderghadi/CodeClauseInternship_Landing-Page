@@ -26,7 +26,7 @@
 </section>
 
 <section>
-  <p>Demo: </p>
+  <h2>Demo: https://haiderghadi.github.io/CodeClauseInternship_Landing-Page/</h2>
 </section>
 
 <section id="how-to-apply">
